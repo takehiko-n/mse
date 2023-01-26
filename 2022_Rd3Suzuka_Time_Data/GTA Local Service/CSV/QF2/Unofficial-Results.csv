@@ -1,0 +1,46 @@
+Åyèáà ÉfÅ[É^Åz
+ClassRank,Rank,Class,CarNo,Driver,CarName,Laps,LastLapTime,Time,TimeFired,PitCount,BestLapDriver,BestLapTime,BestLapLap,BestLapClassRank,BestLapRank,ClassGap,ClassInt,Gap,Int,Speed,BestLap(A),BestLap(B)
+1,1,500,19,Yuji Kunimoto,TGR TEAM WedsSport BANDOH,4,02'14.485,12'03.403,16:18'03.403,1,A,01'44.112,3,1,1,---,---,---,---,244.67,01'44.112,
+2,2,500,37,Ritomo Miyata,TGR TEAM KeePer TOM'S,5,01'44.269,11'04.453,16:17'04.453,0,B,01'44.269,5,2,2,0.157,0.157,0.157,0.157,220.7,,01'44.269
+3,3,500,3,Mitsunori Takaboshi,NDDP RACING,4,02'03.416,10'12.136,16:16'12.136,1,B,01'44.425,3,3,3,0.313,0.156,0.313,0.156,271.11,,01'44.425
+4,4,500,16,Toshiki Oyu,TEAM Red Bull MUGEN,4,02'08.972,11'34.357,16:17'34.357,1,B,01'44.457,3,4,4,0.345,0.032,0.345,0.032,149.38,,01'44.457
+5,5,500,17,Nobuharu Matsushita,Astemo REAL RACING,5,02'06.363,10'59.061,16:16'59.061,1,B,01'44.653,4,5,5,0.541,0.196,0.541,0.196,269.44,,01'44.653
+6,6,500,39,Yuichi Nakayama,TGR TEAM SARD,5,02'00.214,10'43.675,16:16'43.675,1,B,01'44.925,4,6,6,0.813,0.272,0.813,0.272,257.59,,01'44.925
+7,7,500,12,Bertrand Baguette,TEAM IMPUL,5,01'45.709,11'22.557,16:17'22.557,0,B,01'45.662,4,7,7,1.550,0.737,1.550,0.737,198.73,,01'45.662
+8,8,500,36,Giuliano Alesi,TGR TEAM au TOM'S,4,01'54.750,10'54.867,16:16'54.867,1,B,01'46.137,3,8,8,2.025,0.475,2.025,0.475,267.8,,01'46.137
+,,500,8,Tomoki Nojiri,ARTA,,,,,,,,,,,,,,,,,
+,,500,14,Kazuya Oshima,TGR TEAM ENEOS ROOKIE,,,,,,,,,,,,,,,,,
+,,500,23,Ronnie Quintarelli,NISMO,,,,,,,,,,,,,,,,,
+,,500,24,Daiki Sasaki,KONDO RACING,,,,,,,,,,,,,,,,,
+,,500,38,Yuji Tachikawa,TGR TEAM ZENT CERUMO,,,,,,,,,,,,,,,,,
+,,500,64,Hiroki Otsu,Modulo Nakajima Racing,,,,,,,,,,,,,,,,,
+,,500,100,Tadasuke Makino,TEAM KUNIMITSU,,,,,,,,,,,,,,,,,
+
+ClassRank,Rank,Class,CarNo,Driver,CarName,Laps,LastLapTime,Time,TimeFired,PitCount,BestLapDriver,BestLapTime,BestLapLap,BestLapClassRank,BestLapRank,ClassGap,ClassInt,Gap,Int,Speed,BestLap(A),BestLap(B)
+1,9,300,10,Riki Okusa,GAINER,4,02'28.191,10'39.664,15:58'39.664,1,B,01'56.552,3,1,9,---,---,12.440,10.415,242.65,,01'56.552
+2,10,300,88,Takashi Kogure,JLOC,5,02'20.845,12'36.806,16:18'36.806,1,A,01'56.693,3,2,10,0.141,0.141,12.581,0.141,228.15,01'56.693,
+3,11,300,7,Tsubasa Kondo,BMW Team Studie x CSL,4,01'56.743,10'07.303,15:58'07.303,0,B,01'56.743,4,3,11,0.191,0.050,12.631,0.050,250.25,,01'56.743
+4,12,300,96,Morio Nitta,K-tunes Racing,4,02'08.365,09'23.553,15:57'23.553,1,A,01'57.415,3,4,12,0.863,0.672,13.303,0.672,250.25,01'57.415,
+5,13,300,56,Kiyoto Fujinami,KONDO RACING,4,02'15.301,10'11.567,15:58'11.567,1,A,01'57.480,3,5,13,0.928,0.065,13.368,0.065,234.23,01'57.480,
+6,14,300,30,Hiroaki Nagai,apr,4,02'11.776,09'32.738,15:57'32.738,1,A,01'57.521,3,6,14,0.969,0.041,13.409,0.041,240.65,01'57.521,
+7,15,300,87,Kosuke Matsuura,JLOC,4,02'13.253,10'41.716,15:58'41.716,1,A,01'57.595,3,7,15,1.043,0.074,13.483,0.074,246.05,01'57.595,
+8,16,300,5,Reiji Hiraki,TEAM MACH,5,02'16.812,11'00.336,15:59'00.336,1,B,01'57.639,4,8,16,1.087,0.044,13.527,0.044,248.13,,01'57.639
+9,17,300,360,Takayuki Aoki,TOMEI SPORTS  ,5,02'16.632,11'38.167,15:59'38.167,1,A,01'57.680,3,9,17,1.128,0.041,13.568,0.041,225.8,01'57.680,
+10,18,300,11,Hironobu Yasuda,GAINER,4,02'17.422,10'22.341,15:58'22.341,1,A,01'57.778,3,10,18,1.226,0.098,13.666,0.098,247.43,01'57.778,
+11,19,300,65,Takuro Shinohara,K2 R&D LEON RACING,5,02'06.844,11'11.567,15:59'11.567,1,B,01'58.032,3,11,19,1.480,0.254,13.920,0.254,244.67,,01'58.032
+12,20,300,60,Shunsuke Kohno,LM corsa,5,01'58.608,11'06.723,15:59'06.723,0,B,01'58.608,5,12,20,2.056,0.576,14.496,0.576,226.39,,01'58.608
+13,21,300,2,Hiroki Katoh,muta Racing INGING,5,01'59.131,11'47.081,15:59'47.081,0,A,01'59.131,5,13,21,2.579,0.523,15.019,0.523,242.65,01'59.131,
+14,22,300,50,Ryosei Yamashita,Arnage Racing,4,02'44.237,09'35.037,15:57'35.037,1,A,02'00.771,3,14,22,4.219,1.640,16.659,1.640,243.99,02'00.771,
+15,23,300,9,Takeshi Kimura,PACIFIC CARGUY Racing,5,02'10.049,11'45.195,15:59'45.195,1,A,02'01.195,4,15,23,4.643,0.424,17.083,0.424,246.05,02'01.195,
+16,24,300,61,Hideki Yamauchi,R&D SPORT,3,02'16.300,08'42.992,15:56'42.992,1,B,02'05.374,2,16,24,8.822,4.179,21.262,4.179,197.83,,02'05.374
+,,300,4,Nobuteru Taniguchi,GOODSMILE RACING & TeamUKYO,,,,,,,,,,,,,,,,,
+,,300,6,Yoshiaki Katayama,Team LeMans,,,,,,,,,,,,,,,,,
+,,300,18,Kakunoshin Ohta,TEAM UPGARAGE,,,,,,,,,,,,,,,,,
+,,300,20,Katsuyuki Hiranaka,SHADE RACING,,,,,,,,,,,,,,,,,
+,,300,25,Takamitsu Matsui,HOPPY team TSUCHIYA,,,,,,,,,,,,,,,,,
+,,300,31,Yuhki Nakayama,apr,,,,,,,,,,,,,,,,,
+,,300,34,Masataka Yanagida,BUSOU Drago CORSE,,,,,,,,,,,,,,,,,
+,,300,48,Yuya Hiraki,NILZZ Racing,,,,,,,,,,,,,,,,,
+,,300,52,Hiroki Yoshida,SAITAMATOYOPET Green Brave,,,,,,,,,,,,,,,,,
+,,300,55,Iori Kimura,ARTA,,,,,,,,,,,,,,,,,
+,,300,244,Atsushi Miyake,Max Racing,,,,,,,,,,,,,,,,,
